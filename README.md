@@ -3,7 +3,7 @@ Making Server JavaScript Apps with Node.js
 
 An example of a blog post at [JustBuildSomething.com](http://justbuildsomething.com/)
 
-[Original Post](http://justbuildsomething.com/making-server-javascript-apps-with-node/)
+[Original Post](http://justbuildsomething.com/making-server-javascript-apps-with-node-js/)
 
 How to Run
 ---
