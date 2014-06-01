@@ -1,4 +1,4 @@
-Asynchronous Loops in Node.js Are Driving Me Loopy
+Making Server JavaScript Apps with Node.js
 ---
 
 An example of a blog post at [JustBuildSomething.com](http://justbuildsomething.com/)
@@ -24,8 +24,10 @@ Lastly, point your browser to `localhost:3000` to view the demo.
 
 Author
 ---
+Need more help? 
+Please email me.
 Alan James: [alanjames1987@gmail.com](mailto:alanjames1987@gmail.com)
 
 License
 ---
-Licensed under [MIT](http://mogulmvc.com/general/license).
+Licensed under [MIT](https://github.com/JustBuildSomething/Making-Server-JavaScript-Apps-with-Node.js/blob/master/LICENSE)
